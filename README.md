@@ -1,0 +1,1 @@
+Example in how start a Vue.js app using the CDN. 
